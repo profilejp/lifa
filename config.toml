@@ -1,26 +1,16 @@
 theme = "identity"
 disableKinds = ['taxonomy', 'term']
-copyright = "2023 ProfileJP"
+copyright = "2023 プロフィール.com"
 
-baseURL = "https://profile.jp.net/sample/"
-title = "Sample - ProfileJP"
+baseURL = "https://xn--dck5ef6fh6g.com/lifa/"
+title = "Lifa | プロフィール.com"
 
 [params]
-author = "Jane Doe"
-icon = "avatar"
-description = "CONGUE PELLENTESQUE ELEIFEND"
+author = "Lifa"
+icon = "lifa"
+description = "Backend Engineer"
 
 [[params.social]]
 name = "twitter"
 icon = "brands fa-twitter"
-url = "https://twitter.com/"
-
-[[params.social]]
-name = "instagram"
-icon = "brands fa-instagram"
-url = "https://www.instagram.com/"
-
-[[params.social]]
-name = "facebook"
-icon = "brands fa-facebook"
-url = "https://www.facebook.com/"
+url = "https://twitter.com/intent/user?user_id=1597757894774362114"
